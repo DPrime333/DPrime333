@@ -46,15 +46,31 @@ Mid-range entire homes generate the most stable risk-adjusted return in the Aust
 Project Repo  
 https://github.com/DPrime333/airbnb-price-model
 
-### Loan Default Prediction
-- Processed **255K+ loan records** using SQL and Python
-- Built classification models to predict default risk (**ROC-AUC: 0.79**)
-- Developed borrower risk segmentation for credit risk assessment
+### Loan Fraud Detection
 
-### Texas Rattlers Matchup Optimization
-- Developed **machine learning models** to predict qualified ride probability
-- Built a **rider–bull matchup simulator**
-- Created an interactive **Streamlit decision-support dashboard** for coaches
+Built and evaluated multiple machine learning models (LASSO, Elastic Net, Random Forest, Decision Tree) to detect fraudulent applications in a digital banking campaign
+
+Achieved ROC-AUC ≈ 0.86 with a LASSO logistic regression model while balancing precision and recall for operational feasibility
+
+Identified key fraud predictors including identity inconsistencies, unstable address history, and credit risk signals
+
+Proposed a three-tier risk screening framework to reduce fraud while minimizing friction for legitimate customers
+
+Project Repo
+https://github.com/DPrime333/loan-fraud-detection-model
+
+### PBR Matchup Optimization
+
+Developed a two-stage machine learning framework to model rider–bull matchup outcomes in professional bull riding
+
+Implemented a survival probability model and a neural network score prediction model to estimate expected ride performance
+
+Built a matchup simulation system that ranks rider–bull pairings using a risk-adjusted expected value framework
+
+Designed an interactive Streamlit dashboard to support coaching staff with data-driven matchup strategy
+
+Project Repo
+https://github.com/DPrime333/pbr-matchup-prediction
 
 ---
 
