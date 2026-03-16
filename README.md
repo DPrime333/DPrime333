@@ -68,11 +68,11 @@ https://github.com/DPrime333/airbnb-price-model
 
 ## GitHub Stats
 
-![Yiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Yiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dprime333&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dprime333&layout=compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dprime333)](https://git.io/streak-stats)
 
 ---
 
@@ -85,4 +85,4 @@ https://github.com/DPrime333/airbnb-price-model
 
 ⭐️ *Feel free to explore my projects and repositories!*
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
+![](https://komarev.com/ghpvc/?username=Dprime333)
