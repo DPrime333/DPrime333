@@ -66,6 +66,16 @@ https://github.com/DPrime333/airbnb-price-model
 
 ---
 
+## GitHub Stats
+
+![Yiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME)](https://git.io/streak-stats)
+
+---
+
 ## Connect With Me
 
 📧 Email: liuy623@wfu.edu  
@@ -74,3 +84,5 @@ https://github.com/DPrime333/airbnb-price-model
 ---
 
 ⭐️ *Feel free to explore my projects and repositories!*
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
