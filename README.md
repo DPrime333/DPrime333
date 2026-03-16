@@ -17,10 +17,7 @@ My work combines **Python, SQL, and BI tools** to support data-driven decision m
 ## Technical Skills
 
 **Programming & Data Tools**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/alteryx-1.png" width="40"/>
+Python | SQL(PostSQL, SQLite) | R | Alteryx
 
 **Machine Learning & Analytics**  
 Predictive Modeling | Regression | Classification | Feature Engineering | Model Evaluation
