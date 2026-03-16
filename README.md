@@ -68,7 +68,7 @@ https://github.com/DPrime333/airbnb-price-model
 
 ## GitHub Stats
 
-![Yiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dprime333&show_icons=true)
+![Yiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dprime333&show_icons=true&theme=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dprime333&layout=compact)
 
