@@ -1,7 +1,7 @@
 # Hi, I'm Yiran Liu 👋
 
 MS in Business Analytics @ Wake Forest University  
-Data Analyst | Machine Learning | Data Science  
+Business Analyst | Machine Learning | Data Analyst  
 Passionate about turning complex data into actionable insights  
 
 ---
